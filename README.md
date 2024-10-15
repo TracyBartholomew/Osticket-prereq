@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1 set up Azure virtual machine
+- Item 2 install MYSQL,PHP
+- Item 3 set up osticket database
+- Item 4 download and configure osticket
+- Item 5 complete osticket instalation via web
 
 <h2>Installation Steps</h2>
 
