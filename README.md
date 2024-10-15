@@ -37,13 +37,13 @@ Here’s a 5-step guide to install osTicket on Microsoft Azure:
 
 1. Set Up a Virtual Machine on Azure
 
-	•	Log in to your Azure Portal and navigate to Virtual Machines.
-	•	Click on Create a Virtual Machine, select your desired region, and choose a Linux (Ubuntu or windows)          distribution.
-	•	Choose an appropriate size for your VM and configure networking (allow HTTP and HTTPS traffic).
-  •	Enable the required PHP modules and restart Apache:. Install Required Software
-  •	After logging into the VM, install the necessary components for osTicket:
-  •	Log into MySQL to create a database and user for osTicket:
-  •	Run the following commands inside MySQL to create the database and user:
+•	Log in to your Azure Portal and navigate to Virtual Machines.
+•	Click on Create a Virtual Machine, select your desired region, and choose a Linux (Ubuntu or windows)          distribution.
+•	Choose an appropriate size for your VM and configure networking (allow HTTP and HTTPS traffic).
+•	Enable the required PHP modules and restart Apache:. Install Required Software
+•	After logging into the VM, install the necessary components for osTicket:
+•	Log into MySQL to create a database and user for osTicket:
+•	Run the following commands inside MySQL to create the database and user:
 <p>
 ![image alt](https://github.com/TracyBartholomew/Osticket-prereq/blob/6c2d8865741d15e5200d06d673d38a176c0b4e00/IMG_0350.jpeg)
 </p>
