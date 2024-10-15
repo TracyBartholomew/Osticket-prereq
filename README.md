@@ -48,7 +48,7 @@ Here’s a 5-step guide to install osTicket on Microsoft Azure:
 ![image alt](https://github.com/TracyBartholomew/Osticket-prereq/blob/6c2d8865741d15e5200d06d673d38a176c0b4e00/IMG_0350.jpeg)
 </p>
 <p>
-•	Open your browser and access the osTicket installer by visiting:
+•	Open your browser and access the osTicket installer :
 
 •	Follow the setup instructions, enter your MySQL database information, and complete the configuration.
 •	After installation, remove the /setup directory for security:
